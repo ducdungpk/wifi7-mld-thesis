@@ -8,6 +8,7 @@ authors:
 version: "1.0.0"
 repository-code: "https://github.com/ducdungpk/wifi7-mld-thesis"
 url: "https://github.com/ducdungpk/wifi7-mld-thesis"
+DOI: 10.5281/zenodo.23875063
 abstract: >-
   Mã nguồn C++, tập lệnh Bash, chương trình Python và dữ liệu
   phục vụ đánh giá hiệu năng Wi-Fi 7 Multi-Link Operation trên
