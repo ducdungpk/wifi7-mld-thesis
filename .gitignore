@@ -1,0 +1,34 @@
+# ns-3 build products
+/build/
+/cmake-cache*/
+/ns-3.46.1/
+/preprocess_source_backup/
+/blockack-guard-backup/
+
+# C++ sources restored automatically by ns3_prepare.sh
+/scratch/ns3-precheck-sources/
+
+# Newly generated precheck output
+/precheck_ns3_3461/
+
+# Detailed execution directories retained separately
+/results_demo_*_rng5/cases/
+/results_demo_*_rng5/logs/
+/results_demo_*_rng5/invalid/
+/results_demo_*_rng5/.work-*
+/results_demo_*_rng5/.aggregate*
+/results_demo_*_rng5/.lock
+
+# Python environment and cache
+.venv/
+venv/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Operating system files and crash dumps
+Thumbs.db
+Desktop.ini
+.DS_Store
+/core
+/core.*

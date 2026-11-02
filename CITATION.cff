@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Nếu sử dụng mã nguồn hoặc dữ liệu này, vui lòng trích dẫn bộ mã theo thông tin dưới đây."
+type: software
+title: "Mã nguồn mô phỏng đánh giá hiệu năng MLO trên kiến trúc MLD"
+authors:
+  - family-names: "Hồ"
+    given-names: "Đức Dũng"
+version: "1.0.0"
+repository-code: "https://github.com/ducdungpk/wifi7-mld-thesis"
+url: "https://github.com/ducdungpk/wifi7-mld-thesis"
+abstract: >-
+  Mã nguồn C++, tập lệnh Bash, chương trình Python và dữ liệu
+  phục vụ đánh giá hiệu năng Wi-Fi 7 Multi-Link Operation trên
+  kiến trúc MLD bằng ns-3.46.1 có hiệu chỉnh cục bộ.
+  Bộ thực nghiệm gồm năm demo và 1435 lượt chạy.
+keywords:
+  - Wi-Fi 7
+  - IEEE 802.11be
+  - Multi-Link Operation
+  - Multi-Link Device
+  - ns-3
+date-released: 2026-11-02

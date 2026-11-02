@@ -1,0 +1,15 @@
+Mean = arithmetic mean across the five RNG runs.
+SD = sample standard deviation, ddof=1. Error bars are SD, not CI.
+Zero values are retained. NA is never replaced with zero.
+Each metric_count records the number of defined run values.
+Scenario groups remain separate; repeated baseline configurations
+across groups are not pooled as additional independent RNG runs.
+Offered load = UDP payload Mbps per STA; throughput = IP Mbps.
+Delay/jitter describe received packets only.
+Jain is computed per run across STAs, then averaged across runs.
+Demo 5 radius_m = initial radius; STA coordinates = final positions.
+Raw CSV files are read only. PNG/PDF figures use unsmoothed data.
+Python: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]
+Pandas: 3.0.3
+NumPy: 2.4.6
+Matplotlib: 3.10.9
