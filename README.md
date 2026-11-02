@@ -92,3 +92,14 @@ https://github.com/ducdungpk/wifi7-mld-thesis/tree/v1.0.0
 ## Ghi nhận mã nguồn
 
 Các thông tin bản quyền và giấy phép của mã nguồn kế thừa được giữ trong các tệp tương ứng. Các hiệu chỉnh cục bộ được mô tả trong ns3_prepare.sh và phụ lục của báo cáo.
+
+## Trích dẫn
+
+Mã nguồn và dữ liệu sử dụng trong báo cáo được lưu trữ trên
+Zenodo theo phiên bản 1.0.0.
+
+Hồ Đức Dũng. (2026). Mã nguồn mô phỏng đánh giá hiệu năng MLO
+trên kiến trúc MLD (phiên bản 1.0.0). Zenodo.
+https://doi.org/10.5281/zenodo.23875063
+
+Thông tin trích dẫn có trong CITATION.cff.
